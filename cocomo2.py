@@ -1,5 +1,3 @@
-explain this code
-
 
 import math
 
